@@ -5,10 +5,11 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/denisse_ojeda.png");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:contain;
   background-position: left;
+  background-color: #373a3c;
 }
 
 /* Mis trabajos */
